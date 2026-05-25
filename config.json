@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterualidate",
+        "uuid": 2494899,
+        "checksum": "m61eeu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
